@@ -4,7 +4,7 @@ Able to edit a value sent to the backend.
 
 ## Method
 
-Go to the recover password page:
+Go to the Survey Page
 Homepage > Survey
 
 Then inspect element and look at one of the selects, you can then edit that options `value` and send any value directly to the backend.
