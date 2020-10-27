@@ -7,9 +7,7 @@ Able to execute custom js.
 Go to the Feedback page
 Homepage > Leave a Feedback
 
-Insert anything into the name field.
-
-In the message field you can type `<script> Alert(1) </script>` to get the flag.
+Type `script` in the name field and submit.
 
 ## Explanation
 
