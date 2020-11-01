@@ -19,4 +19,7 @@ We can use this information to get the flag.
 https://curl.haxx.se/docs/manpage
 
 `curl -A "ft_bornToSec" -e "https://www.nsa.gov/" "http://192.168.1.43/index.php?page=e43ad1fdc54babe674da7c7b8f0127bde61de3fbe01def7d00f151c2fcca6d1c" | grep flag`
+
 ## Explanation
+
+Do not leave sensitive information inside of the comments, comments are publicly visible and any sensitive information could be exploted.
